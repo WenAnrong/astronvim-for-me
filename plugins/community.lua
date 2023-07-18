@@ -13,4 +13,5 @@ return {
   { import = "astrocommunity.pack.bash" },
   { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.pack.lua" },
+  { import = "astrocommunity.motion.flash-nvim" },
 }
