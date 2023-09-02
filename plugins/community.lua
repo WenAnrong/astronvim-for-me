@@ -15,4 +15,5 @@ return {
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.motion.flash-nvim" },
   { import = "astrocommunity.markdown-and-latex.markdown-preview-nvim" },
+  { import = "astrocommunity.pack.cpp" },
 }
